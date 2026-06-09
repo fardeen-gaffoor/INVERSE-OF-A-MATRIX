@@ -5,11 +5,17 @@ To write a python program to find the inverse of a matrix
 1. 	Hardware – PCs
 2. 	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
-### Step1 : 
-### Step 2: 
-### Step 3: 
-### Step 4: 
+Algorithm:
 
+Step 1: Import the required libraries and set the OpenBLAS thread environment variable.
+
+Step 2: Define the matrix for which the inverse is to be found.
+
+Step 3: Use the np.linalg.inv() function to calculate the inverse of the given matrix.
+
+Step 4: Display the inverse matrix obtained.
+
+Step 5: Stop the program.
 ## Program:
 ```
 #Program to find the inverse of a matrix.
